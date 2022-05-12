@@ -27,7 +27,7 @@ const Header = () => {
         className=' text-5xl sm:text-6xl mb-4 text-white w-fit'
         transition={{ duration: 2 }}
       >
-        Hi, I'm Sarah.
+        Hi, I&apos;m Sarah.
       </motion.h1>
       <div className='flex justify-between items-start md:items-center'>
         <motion.div
